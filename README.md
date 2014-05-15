@@ -1,4 +1,5 @@
-hellothere
-==========
+relx_test
+=========
 
-test relx
+Example of Erlang project using erlang.mk and relx tools.
+
